@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/hello-world/</loc>
+    <loc>https://edm0322.github.io/posts/hello-hugo/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/tags/hugo/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/posts/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/tags/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/tags/%EA%B8%B0%EB%A1%9D/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/posts/hello-world/</loc>
     <lastmod>2025-07-22T00:27:01+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-07-22T00:27:01+09:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-07-22T00:27:01+09:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://edm0322.github.io/categories/</loc>
   </url>
 </urlset>
