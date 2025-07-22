@@ -1,0 +1,35 @@
+# 사이트의 기본 URL (반드시 GitHub Pages 주소와 동일하게 설정)
+baseURL = "https://edm0322.github.io/"
+
+# 블로그 제목 (브라우저 탭 제목에도 표시됨)
+title = "나의 블로그"
+
+# 언어 코드 (다국어 설정 가능, 한국어는 'ko')
+languageCode = "ko"
+
+# 사용할 테마 이름 (themes/ 디렉토리 아래 폴더 이름과 일치해야 함)
+theme = "PaperMod"
+
+# Hugo가 빌드 결과를 출력할 디렉토리 (GitHub Pages는 보통 docs 사용)
+publishDir = "docs"
+
+# 검색 엔진에 노출을 허용할지 여부 (true 권장)
+enableRobotsTXT = true
+
+# 한 페이지에 보여줄 글 수 (목록 페이지 등에서 사용됨)
+paginate = 10
+
+# 상단 네비게이션 메뉴 설정
+[menu]
+
+  # 메인 메뉴 항목 정의 (여러 개 가능)
+  [[menu.main]]
+    name = "글 목록"       # 표시될 메뉴 이름
+    url = "/posts/"        # 이동할 경로
+    weight = 1             # 메뉴 순서 (작을수록 왼쪽)
+
+  [[menu.main]]
+    name = "태그"
+    url = "/tags/"
+    weight = 2
+
