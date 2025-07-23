@@ -15,12 +15,5 @@
       <guid>https://edm0322.github.io/posts/hello-hugo/</guid>
       <description>Hugo로 만든 블로그에서 첫 번째 글을 써봤습니다.</description>
     </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://edm0322.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 22 Jul 2025 00:27:01 +0900</pubDate>
-      <guid>https://edm0322.github.io/posts/hello-world/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
