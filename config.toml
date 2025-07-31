@@ -26,6 +26,8 @@ enableRobotsTXT = true
   description = "도전하기"
   ShowBreadCrumbs = true
   ShowReadingTime = true
+  ShowToc = true # TOC 전체 허용
+  ShowPostNavLinks = true # 이전 / 다음 네비게이션
 
 # 상단 네비게이션 메뉴 설정
 [menu]
