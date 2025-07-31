@@ -6,8 +6,15 @@
     <description>Recent content in 블로그 on 나의 블로그</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 22 Jul 2025 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:37:32 +0900</lastBuildDate>
     <atom:link href="https://edm0322.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>블로그여정 001</title>
+      <link>https://edm0322.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%AC%EC%A0%95-001/</link>
+      <pubDate>Fri, 01 Aug 2025 00:37:32 +0900</pubDate>
+      <guid>https://edm0322.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%AC%EC%A0%95-001/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello Hugo! 블로그 첫 글</title>
       <link>https://edm0322.github.io/posts/hello-hugo/</link>

@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://edm0322.github.io/posts/hello-hugo/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://edm0322.github.io/tags/hugo/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/posts/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/tags/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/tags/%EA%B8%B0%EB%A1%9D/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/</loc>
-    <lastmod>2025-07-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%AC%EC%A0%95-001/</loc>
+    <lastmod>2025-08-01T00:37:32+09:00</lastmod>
+  </url><url>
+    <loc>https://edm0322.github.io/posts/hello-hugo/</loc>
     <lastmod>2025-07-22T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://edm0322.github.io/categories/</loc>
