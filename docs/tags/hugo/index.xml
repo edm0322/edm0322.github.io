@@ -13,12 +13,7 @@
       <link>https://edm0322.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%AC%EC%A0%95-001/</link>
       <pubDate>Fri, 01 Aug 2025 00:37:32 +0900</pubDate>
       <guid>https://edm0322.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%AC%EC%A0%95-001/</guid>
-      <description>&lt;h1 id=&#34;1-markdown-및-관련-기본-설정&#34;&gt;1. Markdown 및 관련 기본 설정&lt;/h1&gt;
-&lt;p&gt;archetypes -&amp;gt; default.md 설정을 통해, 글쓰기를 시작할때
-.md 파일에 기본적으로 템플릿이 완성되는 구조로 작성된다.&lt;/p&gt;
-&lt;h1 id=&#34;2-기본적인-markdown-생성-방법&#34;&gt;2. 기본적인 Markdown 생성 방법&lt;/h1&gt;
-&lt;p&gt;&lt;code&gt;hugo new posts/[생성방법].md&lt;/code&gt;
-이런식으로 작성할 경우 마크다운이 생성되면서 기본적인 템플릿이 나온다.&lt;/p&gt;</description>
+      <description>블로그 삽질 여정기 #001</description>
     </item>
     <item>
       <title>Hello Hugo! 블로그 첫 글</title>
